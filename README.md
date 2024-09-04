@@ -9,7 +9,7 @@ This repository contains two applications for predicting car prices:
 Both applications use a pre-trained Linear Regression model to predict car prices based on various features such as the year of the car, present price, kilometers driven, fuel type, seller type, transmission, and number of previous owners.
 
 ## Flask Web Application
- ![Car_Price_Prediction](Screenshot.png)
+ ![Car_Price_Prediction](Screenshot 2024-09-04 234748.png)
 
 ### Features
 - Predicts car prices based on user inputs.
