@@ -4,7 +4,7 @@ from sklearn.linear_model import LinearRegression
 import pickle
 
 # Load the pre-trained model
-model_path = 'model.pkl'
+model_path = 'Car_Price_Prediction/model.pkl'
 with open(model_path, 'rb') as file:
     model = pickle.load(file)
 
